@@ -7,3 +7,5 @@ buildroot-*.tar.gz
 
 # Ignored by gitless cli
 buildroot-*.tar.gz.sign
+crosstool-ng-*/
+build/
